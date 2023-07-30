@@ -32,7 +32,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ## 2: Hello World
 Sigh, let's get over with it.
 
-`~/hello_world.rs`
+[~/hello_world.rs](./2/hello_world.rs)
 ```
 fn main(){
     println!("Hello, world!");
